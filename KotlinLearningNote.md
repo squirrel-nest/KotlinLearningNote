@@ -1,4 +1,5 @@
 # 教程主页
+   * [Learn Kotlin](https://kotlinlang.org/docs/reference/) - 官网文档<br>
    * [Kotlin Tutorial - 官网教程](https://kotlinlang.org/docs/tutorials/)<br>
    * [Kotlin Koans - 这个教程通过一系列练习的方式来熟悉Kotlin。](https://kotlinlang.org/docs/tutorials/koans.html)<br>
       - This tutorial walks you through a series of exercises to get familiar with Kotlin.<br>
