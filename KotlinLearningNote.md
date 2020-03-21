@@ -8,15 +8,16 @@
       - 参考
          + [Getting Started with IntelliJ IDEA](https://kotlinlang.org/docs/tutorials/getting-started.html)<br>
       - 开发环境搭建
-         + Maven - 使用Maven
-            - 参考
-               + [Getting Started with IntelliJ IDEA](https://kotlinlang.org/docs/tutorials/getting-started.html)<br>
-            - 步骤
+         + Working with Build Tools
+            - Maven - 使用Maven
+               * 参考
+                  + [Working with Build Tools - Using Maven](https://kotlinlang.org/docs/reference/using-maven.html)<br>
+                  + 步骤
 
-         + Gradle - 使用Gradle
-            - 参考
-               + [Getting Started with Eclipse IDE](https://kotlinlang.org/docs/tutorials/getting-started-eclipse.html)<br>
-            - 步骤
+            - Gradle - 使用Gradle
+               * 参考
+                  + [Working with Build Tools - Using Gradle](https://kotlinlang.org/docs/reference/using-gradle.html)<br>
+                  + 步骤
 
    * Eclipse - 使用Eclipse IDE
       - 参考
