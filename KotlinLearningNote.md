@@ -8,16 +8,12 @@
       - 参考
          + [Getting Started with IntelliJ IDEA](https://kotlinlang.org/docs/tutorials/getting-started.html)<br>
       - 开发环境搭建
+         + Setting up the environment
+            - 参考
+               + [Setting up the environment](https://kotlinlang.org/docs/tutorials/getting-started.html)<br>
+            - 步骤
          + Working with Build Tools
-            - Maven - 使用Maven
-               * 参考
-                  + [Working with Build Tools - Using Maven](https://kotlinlang.org/docs/reference/using-maven.html)<br>
-                  + 步骤
-
-            - Gradle - 使用Gradle
-               * 参考
-                  + [Working with Build Tools - Using Gradle](https://kotlinlang.org/docs/reference/using-gradle.html)<br>
-                  + 步骤
+            - Build Tools 相关内容参见：[BuildToolLearningNote.md](https://github.com/squirrel-nest/BuildToolLearningNote/blob/master/BuildToolLearningNote.md)<br>
 
    * Eclipse - 使用Eclipse IDE
       - 参考
@@ -28,17 +24,20 @@
                + [Kotlin for Eclipse -- 托管在GitHub上的Kotlin Plugin for Eclipse](https://github.com/JetBrains/kotlin-eclipse)<br>
             - 步骤
                1.  install the Kotlin Plugin for Eclipse：在安装New Software时，选择：[https://dl.bintray.com/jetbrains/kotlin/eclipse-plugin/last/]即可。
-      - 项目构建工具选择
-         + Maven - 使用Maven
-            - 参考
-               + [Getting Started with IntelliJ IDEA](https://kotlinlang.org/docs/tutorials/getting-started.html)<br>
-            - 步骤
+         + Working with Build Tools
+            - Build Tools 相关内容参见：[BuildToolLearningNote.md](https://github.com/squirrel-nest/BuildToolLearningNote/blob/master/BuildToolLearningNote.md)<br>
 
-         + Gradle - 使用Gradle
-            - 参考
-               + [Getting Started with Eclipse IDE](https://kotlinlang.org/docs/tutorials/getting-started-eclipse.html)<br>
-            - 步骤
    * Working with the Command Line Compiler
       - Downloading the compiler
       
       - Creating and running a first application
+# Build Tools
+            - Maven - 使用Maven
+               * 参考
+                  + [Working with Build Tools - Using Maven](https://kotlinlang.org/docs/reference/using-maven.html)<br>
+                  + 步骤
+
+            - Gradle - 使用Gradle
+               * 参考
+                  + [Working with Build Tools - Using Gradle](https://kotlinlang.org/docs/reference/using-gradle.html)<br>
+                  + 步骤
