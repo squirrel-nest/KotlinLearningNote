@@ -4,6 +4,15 @@
    * [Kotlin Tutorial](https://kotlinlang.org/docs/tutorials/) - 官网教程<br>
    * [Kotlin Koans](https://kotlinlang.org/docs/tutorials/koans.html) - 这个教程通过一系列练习的方式来熟悉Kotlin。<br>
       - This tutorial walks you through a series of exercises to get familiar with Kotlin.<br>
+# GitHub 教程与例子
+   * [Zhuinden
+/
+guide-to-kotlin](https://github.com/Zhuinden/guide-to-kotlin) - 看他整理的指南，有一定的帮助。<br>
+   * [smartherd
+/
+KotlinTutorial](https://github.com/smartherd/KotlinTutorial)<br>
+   * [blog-tutorials/spring-boot-with-kotlin/
+](https://github.com/rieckpil/blog-tutorials/tree/master/spring-boot-with-kotlin)<br>
 # 开发工具
    * IntelliJ IDEA - 使用IntelliJ IDEA
       - 参考
