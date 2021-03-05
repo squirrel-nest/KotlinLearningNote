@@ -46,6 +46,8 @@ KotlinTutorial](https://github.com/smartherd/KotlinTutorial)<br>
       + Build Tools 相关内容参见：[BuildToolLearningNote.md](https://github.com/squirrel-nest/BuildToolLearningNote/blob/master/BuildToolLearningNote.md)<br>
       
 # Kotlin Multi Platform
+## 使用Gradle
+   * [Targeting multiple platforms﻿](https://kotlinlang.org/docs/gradle.html#targeting-multiple-platforms)<br>
 ## Kotlin 与 Java
    * 参考
       + [Calling Kotlin from Java](https://kotlinlang.org/docs/reference/java-to-kotlin-interop.html#package-level-functions) - 这篇仔细研究研究<br>
